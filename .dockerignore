@@ -1,0 +1,14 @@
+.git
+.claude
+.vscode
+.idea
+var
+vendor
+docker
+docker-compose.yml
+.dockerignore
+.gitignore
+.env.local
+.env.*.local
+README.md
+CLAUDE.md
